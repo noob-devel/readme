@@ -10,3 +10,5 @@
     * Yahhh, get [mss](https://python-mss.readthedocs.io). Example [here](https://python-mss.readthedocs.io/examples.html)
     * Remember to install [OpenCV for Python](https://pypi.org/project/opencv-python/)
     * Better to use `virtualenv`
+* Wanna create diagrams in JS?
+    * Check [mxGraph](https://github.com/jgraph/mxgraph)
